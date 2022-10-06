@@ -1,6 +1,6 @@
 ###
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="50%" /><br>
-### Hey there!👀
+### Hey there! 👋
 This is Omkar Kalepu, Junior of IT :) <br>
 An open-source enthusiast! <br>
 Right now, I'm predominantly focussing on Web Dev! <br>
